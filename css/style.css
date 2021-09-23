@@ -1,0 +1,14 @@
+.navbar-form .input-group > .form-control {
+    width: 100%;
+    border-radius: 5px;
+}
+.navbar-brand {
+    padding: 6px 15px;
+}
+.container-fluid{
+	margin-top:70px;
+}
+.write{
+			font-size: 22px;
+		}
+		
